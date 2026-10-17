@@ -86,49 +86,49 @@ The screenshots below follow the workbook's analysis tabs in sequence. They show
 
 A consolidated overview of participation and medal metrics, top medalists, country performance, sport popularity, gender comparisons, athlete trends, and geographical visualizations.
 
-![Main Dashboard](images/01-dashboard.png)
+![Main Dashboard](01-dashboard.png)
 
 ### 2. Number of Participants
 
 Displays participation summaries and gender-related counts alongside medal metrics.
 
-![Number of Participants](images/02-number-of-participants.png)
+![Number of Participants](02-number-of-participants.png)
 
 ### 3. Best-Performing Countries
 
 Compares gold, silver, and bronze medal counts across countries.
 
-![Best-Performing Countries](images/03-best-performing-countries.png)
+![Best-Performing Countries](03-best-performing-countries.png)
 
 ### 4. Top Olympic Medalists
 
 Compares medal counts for leading athletes across medal categories.
 
-![Top Olympic Medalists](images/04-top-olympic-medalists.png)
+![Top Olympic Medalists](04-top-olympic-medalists.png)
 
 ### 5. Most Popular Sports
 
 Visualizes participant counts across selected sports and gender categories.
 
-![Most Popular Sports](images/05-most-popular-sports.png)
+![Most Popular Sports](05-most-popular-sports.png)
 
 ### 6. Male vs Female Performance
 
 Compares medal distribution between male and female athletes.
 
-![Male vs Female Performance](images/06-male-vs-female.png)
+![Male vs Female Performance](06-male-vs-female.png)
 
 ### 7. Victory vs Age
 
 Explores medal counts across athlete ages.
 
-![Victory vs Age](images/07-victory-vs-age.png)
+![Victory vs Age](07-victory-vs-age.png)
 
 ### 8. Top 10 Players
 
 Shows a comparative view of leading Olympic athletes and their medal counts.
 
-![Top 10 Players](images/08-top-10-players.png)
+![Top 10 Players](08-top-10-players.png)
 
 > The main dashboard also includes additional views such as height vs medals, weight vs victory, country performance over time, host country vs participation, dominant countries on a world map, top nations, and Summer vs Winter comparisons.
 
